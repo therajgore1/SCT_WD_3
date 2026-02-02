@@ -41,13 +41,6 @@ The objective of this task was to create an interactive quiz system with differe
 
 ---
 
-## 🔹 Project Preview
-
-📌 Live Demo: *(Add Netlify / GitHub Pages link here)*  
-📌 Internship Task: SkillCraft Technology – Web Development Internship  
-
----
-
 ## 🔹 Future Improvements
 
 - Timer-based quizzes  
